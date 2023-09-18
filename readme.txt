@@ -12,3 +12,7 @@ that's the fundamental thing why did i choose the websocket protocol
 
 both http 1.1 and weboscket protocol are built top on the TCP 
 so both have ack messages when a client send something to server or server said something to client 
+
+
+in The front end side of the thing i used react because i want to create a application with no html complexity like the tree hell in html 
+so that's why i used react but i didn't make a great in it because my focus in on the backend side of thing
